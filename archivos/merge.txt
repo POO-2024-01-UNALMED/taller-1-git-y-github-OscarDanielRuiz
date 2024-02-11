@@ -1,3 +1,6 @@
 Nombre: Oscar Daniel Ruiz Mejia
 Edad: 31 años
 Aspiraciones con la materia: Desarrollar conocimientos sobre los temas tratados y sus conceptos para aplicarlos efectivamente en mi vida profesional, fortaleciendo mis bases sobre estos. Aprovechar a los instructores y compañeros para adquirir nuevos conocimientos y resolver las dudas que se vayan presentando a lo largo del semestre.
+Ya que la carpeta se encontraba vacía, el GitHub Desktop no reconoció ningún cambio, por lo tanto no permitía crear un commit, al crear un archivo de texto dentro de la carpeta, ahora si permitió crear el commit.
+
+Porque se generan conflictos.
