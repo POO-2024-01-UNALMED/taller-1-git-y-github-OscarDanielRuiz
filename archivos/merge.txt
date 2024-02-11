@@ -1,0 +1,1 @@
+Ya que la carpeta se encontraba vacía, el GitHub Desktop no reconoció ningún cambio, por lo tanto no permitía crear un commit, al crear un archivo de texto dentro de la carpeta, ahora si permitió crear el commit.
